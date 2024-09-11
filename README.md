@@ -1,7 +1,7 @@
 [![MasterHead](https://pngtree.com/freebackground/black-business-man-using-data-analytics-technology-business-industry-management-photo_9781758.html)]
 <h1 align="center">Hi 👋, I'm Gouthum kharvi</h1>
 <h3 align="center">I’m an aspiring data analyst passionate about uncovering insights from data.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/setup-analytics-concept-illustration_7887402.htm#fromView=keyword&page=1&position=4&uuid=6a1d2e26-43ac-469b-8711-b79460413ebd">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/1e/1efebdb3fc3ec45938a06112d1b13feb_w200.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&label=Profile%20views&color=0e75b6&style=flat" alt="gouthumkharvi" /> </p>
 
