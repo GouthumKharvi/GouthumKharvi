@@ -1,4 +1,5 @@
-[![MasterHead](https://pngtree.com/freebackground/black-business-man-using-data-analytics-technology-business-industry-management-photo_9781758.html)]
+![Masteradd Banner](https://www.dataentryoutsourced.com/blog/wp-content/uploads/2012/12/data-mining-process-banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Gouthum kharvi</h1>
 <h3 align="center">I’m an aspiring data analyst passionate about uncovering insights from data.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/1e/1efebdb3fc3ec45938a06112d1b13feb_w200.webp">
