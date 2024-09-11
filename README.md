@@ -2,15 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Gouthum kharvi</h1>
 <h3 align="center">I’m an aspiring data analyst passionate about uncovering insights from data.</h3>
-<img align="left" alt="Coding" width="400" src="https://i.gifer.com/origin/1e/1efebdb3fc3ec45938a06112d1b13feb_w200.webp">
+<img align="Right" alt="Coding" width="400" src="https://raw.githubusercontent.com/emreabaci/emreabaci/master/assets/code.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&label=Profile%20views&color=0e75b6&style=flat" alt="gouthumkharvi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouthumkharvi" alt="gouthumkharvi" /></a> </p>
 
 - 🌱 I’m currently learning **Deep Learning, NLP**
 
-- 💬 Ask me about **Python,PowerBi,Tableu,MySql,ML**
+- 💬 Ask me about **Python,PowerBi,Tableu,MySql,Excel and ML**
 
 - 📫 How to reach me **gouthumkharvi1899@gmail.com**
 
