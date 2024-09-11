@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&label=Profile%20views&color=0e75b6&style=flat" alt="gouthumkharvi" /> </p>
 
 
-- 🌱 I’m currently learning **Deep Learning, NLP**
+- 🔭 I’m currently Working On  **Deep Learning, NLP Projects**
 
 - 💬 Ask me about **Python,PowerBi,Tableu,MySql,Excel and ML**
 
