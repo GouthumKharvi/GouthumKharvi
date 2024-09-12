@@ -8,7 +8,9 @@
 
 
 - 🔭 I’m currently Working On  **Deep Learning, NLP Projects**
-
+  
+- 🌱 Im Currently learning **Data Engineering &  MLOps/Modeldeployment on Clouds**
+  
 - 💬 Ask me about **Python,PowerBi,Tableu,MySql,Excel and ML**
 
 - 📫 How to reach me **gouthumkharvi1899@gmail.com**
