@@ -1,7 +1,7 @@
 ![Masteradd Banner](https://www.dataentryoutsourced.com/blog/wp-content/uploads/2012/12/data-mining-process-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Gouthum kharvi</h1>
-<h3 align="center">I’m an aspiring data analyst passionate about uncovering insights from data.</h3>
+<h3 align="center">I’m an aspiring data scientist passionate about uncovering insights from data.</h3>
 <img align="Right" alt="Coding" width="400" src="https://raw.githubusercontent.com/emreabaci/emreabaci/master/assets/code.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&label=Profile%20views&color=0e75b6&style=flat" alt="gouthumkharvi" /> </p>
