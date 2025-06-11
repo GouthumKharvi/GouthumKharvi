@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&label=Profile%20views&color=0e75b6&style=flat" alt="gouthumkharvi" /> </p>
 
 
-- 🔭 I’m currently Working On  **Deep Learning, NLP Projects**
+- 🔭 I’m currently Working On  **an AI-powered visual defect detection system with CNNs, including data platform management and cloud deployment — release coming soon.**
   
 - 🌱 Im Currently learning **Data Engineering &  MLOps/Modeldeployment on Clouds**
   
