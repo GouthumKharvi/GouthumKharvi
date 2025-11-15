@@ -96,6 +96,10 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/data-stream.gif" width="430" />
 </p>
 
+<p align="center">
+  <img src="A_2D_digital_illustration_features_a_futuristic_ro.png" width="450">
+</p>
+
 </div>
 </td>
 
