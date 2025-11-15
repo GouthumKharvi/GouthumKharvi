@@ -28,7 +28,7 @@
 <!-- MAIN CONTENT LAYOUT -->
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" />
 
