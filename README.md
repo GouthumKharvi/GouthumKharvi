@@ -93,12 +93,7 @@
 
 <!-- ⭐ NEW ANIMATION GOES EXACTLY IN YOUR MARKED BOX -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/data-stream.gif" width="430" />
-</p>
-
-<p align="center">
- <img src="https://octodex.github.com/images/surftocat.gif" width="200" />
-
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" />
 </p>
 
 </div>
