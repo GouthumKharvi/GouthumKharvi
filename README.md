@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Ultra Premium 3D Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=GOUTHUM%20KHARVI&fontSize=70&fontAlignY=35&desc=AI%20ENGINEER%20|%20MACHINE%20LEARNING%20|%20DATA%20SCIENTIST&descAlignY=55&descSize=20&animation=twinkling&color=gradient&customColorList=6,11,20,24,30&fontColor=ffffff&stroke=8B5CF6&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=GOUTHUM%20KHARVI&fontSize=70&fontAlignY=35&desc=AI%20ENGINEER%20|%20MACHINE%20LEARNING%20|%20DATA%20SCIENTIST&descAlignY=55&descSize=20&animation=twinkling&color=gradient&customColorList=6,11,20,24,30&fontColor=ffffff&stroke=8B5CF6&strokeWidth=3" width="100%"/>
 
 </div>
 
