@@ -25,12 +25,13 @@
 
 <br>
 
-<!-- MAIN CONTENT LAYOUT (PERFECTLY ALIGNED) -->
+<!-- MAIN CONTENT LAYOUT (PERFECTLY FIXED + WORKING) -->
 <table width="100%" style="table-layout: fixed;">
 <tr>
 
 <!-- LEFT SIDE -->
 <td width="50%" valign="top" style="padding: 20px;">
+<div>
 
 <!-- HELMET CAT -->
 <p align="center">
@@ -64,10 +65,12 @@
 **⚡ Fun Fact**  
 - I can do this all day
 
+</div>
 </td>
 
 <!-- RIGHT SIDE -->
-<td width="50%" valign="top" style="padding: 20px; height: 900px; display: block;">
+<td width="50%" valign="top" style="padding: 20px;">
+<div>
 
 <!-- DINO GAME -->
 <p align="center">
@@ -76,27 +79,29 @@
 
 <br>
 
-<!-- 🔥 FUTURISTIC LIVE ANIMATION FOR MOST USED LANGUAGES -->
+<!-- 🔥 MOST USED LANGUAGES BAR (your original card) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/pie-chart.gif" width="420" />
 </p>
 
-<!-- SAME THEME GITHUB LANGUAGE STATS BELOW -->
+<!-- LANGUAGE STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="100%" />
 </p>
 
 <br>
 
-<!-- ⭐ NEW ANIMATION GOES EXACTLY IN YOUR EMPTY BOX -->
+<!-- ⭐ NEW ANIMATION GOES EXACTLY IN YOUR MARKED BOX -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/data-stream.gif" width="430" />
 </p>
 
+</div>
 </td>
 
 </tr>
 </table>
+
 
 
 
