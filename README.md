@@ -1,33 +1,40 @@
 <div align="center">
 
-<!-- Ultra Premium 3D Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=GOUTHUM%20KHARVI&fontSize=70&fontAlignY=35&desc=AI%20ENGINEER%20|%20MACHINE%20LEARNING%20|%20DATA%20SCIENTIST&descAlignY=55&descSize=20&animation=twinkling&color=gradient&customColorList=6,11,20,24,30&fontColor=ffffff&stroke=8B5CF6&strokeWidth=3" width="100%"/>
+<!-- Cyberpunk Neon Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=GOUTHUM%20KHARVI&fontSize=60&color=0:00D9FF,50:667EEA,100:764BA2&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=🤖%20AI%20Engineer%20|%20ML%20Architect%20|%20Data%20Scientist%20⚡&descSize=18&descAlignY=60&stroke=00D9FF&strokeWidth=2" width="100%"/>
 
 </div>
+
+<!-- Holographic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
+</p>
 
 <div align="center">
 
-<!-- Quantum Particle Wave -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<!-- Premium Typing Animation with AI Focus -->
+<!-- Dynamic AI Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2000&pause=800&color=8B5CF6&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%E2%9C%A8+PASSIONATE+ABOUT+DATA+INSIGHTS;%F0%9F%A7%A0+BUILDING+GENAI+%26+AGENTIC+AI;%F0%9F%9A%80+DEPLOYING+ML+SOLUTIONS;%F0%9F%94%A5+MASTERING+AI+ARCHITECTURES;%E2%9A%A1+I+CAN+DO+THIS+ALL+DAY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=✨+Passionate+About+Data+Insights;🧠+Building+GenAI+%26+Agentic+AI;🚀+Currently+Learning+Advanced+AI;⚡+I+Can+Do+This+All+Day!" alt="Typing SVG" />
 </a>
 
-<!-- 3D Holographic Brain -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<!-- 3D Rotating Neural Network -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 
-<!-- Premium Profile Counter -->
-<img src="https://komarev.com/ghpvc/?username=gouthumkharvi&label=NEURAL+VISITORS&color=8B5CF6&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+<!-- Neon Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=gouthumkharvi&label=👁️+VISITORS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
+
+<!-- Neon Line Break -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="800"/>
+</p>
 
 ---
 
 <div align="center">
 
-## 🌟 ABOUT ME - THE AI ARCHITECT
+## 🌟 ABOUT ME
 
 </div>
 
@@ -35,293 +42,255 @@
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" align="left"/>
 
-### 🚀 CURRENT MISSION
+### 🔭 Currently Working On
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+**GenAI & Agentic AI Projects**  
+📦 Release Coming Soon
 
-</div>
+<br>
 
-<div align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" align="left"/>
 
-🔭 **Building Amazing Projects**
-- GenAI & Agentic AI Projects
-- Release Coming Soon
+### 🌱 Currently Learning
 
-🌱 **Currently Learning**
 - Agentic AI
 - GenAI
 - Advanced ML Architectures
 
-💡 **Mission Statement**
-- Uncovering insights from data
-- Building the future with AI
+<br>
 
-⚡ **Fun Fact**
-- I can do this all day!
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" align="left"/>
 
-</div>
+### 💡 Mission
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💬 EXPERTISE AREAS
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-
-</div>
-
-<div align="left">
-
-**Ask Me About:**
-
-🤖 **AI/ML** - Machine Learning & Deep Learning
-
-🐍 **Python** - Core Programming & Data Science
-
-📊 **PowerBI** - Business Intelligence & Analytics
-
-📈 **Tableau** - Data Visualization & Dashboards
-
-🗄️ **MySQL** - Database Management & SQL
-
-📑 **Excel** - Advanced Data Analysis
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<!-- Neon Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔗 LET'S CONNECT ACROSS THE DIGITAL UNIVERSE
-
-<!-- Premium Social Badges with 3D Effect -->
-<a href="https://linkedin.com/in/gouthum-kharvi-2366a6219">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://kaggle.com/goutham1698">
-  <img src="https://img.shields.io/badge/Kaggle-Explore_Projects-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:gouthumkharvi1899@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gouthum-kharvi-2366a6219">
-  <img src="https://img.shields.io/badge/Portfolio-View_Experience-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" height="35"/>
-</a>
-
-<!-- Digital Wave Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ TECHNOLOGY ARSENAL - MY AI/ML STACK
-
-<!-- 3D Animated Tech Icons -->
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="85" height="85" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="85" height="85" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="85" height="85" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="85" height="85" />
-
-<!-- Holographic Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🤖 AI & MACHINE LEARNING
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200"/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
+Uncovering insights from data
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" align="left"/>
 
-### 🐍 PROGRAMMING & DATA
+### 💬 Ask Me About
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200"/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 📊 DATA VISUALIZATION
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="200"/>
-
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
- 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💾 DATABASE SYSTEMS
-
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="200"/>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### ⚙️ BIG DATA TOOLS
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200"/>
-
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🛠️ DEVELOPMENT TOOLS
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200"/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<!-- Matrix Digital Rain -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GITHUB PERFORMANCE ANALYTICS
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300"/>
-
-<!-- Premium Stats Cards -->
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gouthumkharvi&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_radius=15" />
-
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=gouthumkharvi&theme=radical&hide_border=true&stroke=8B5CF6&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&border_radius=15" />
-
-<!-- Language Distribution -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&hide_border=true&title_color=8B5CF6&text_color=FFFFFF&bg_color=0d1117&border_radius=15&langs_count=8" />
-
-<!-- Profile Summary -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gouthumkharvi&theme=radical&utcOffset=5.30" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gouthumkharvi&custom_title=🚀%20Contribution%20Activity%20Graph&bg_color=0d1117&color=8B5CF6&line=00D9FF&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&border_radius=15" width="98%"/>
-
-<!-- Trophy Collection -->
-<img src="https://github-profile-trophy.vercel.app/?username=gouthumkharvi&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<!-- Holographic Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Inspirational Tech Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs&border=true&border_color=8B5CF6" width="700"/>
-
-<!-- Snake Contribution Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<!-- Premium Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=LET'S%20BUILD%20THE%20FUTURE%20TOGETHER&fontSize=30&fontAlignY=40&color=gradient&customColorList=12,14,18,20,24&animation=twinkling&desc=Powered%20by%20Passion%20|%20Built%20with%20AI%20|%20Driven%20by%20Innovation&descSize=16&descAlignY=60&section=footer&fontColor=ffffff&stroke=8B5CF6&strokeWidth=2" width="100%"/>
-
-<!-- Advanced Visitor Counter -->
-<img src="https://visitcount.itsvg.in/api?id=gouthumkharvi&label=Profile%20Visitors&color=12&icon=5&pretty=true" />
-
-<br><br>
-
-### 💜 Crafted with Passion • Powered by AI • Driven by Data Science
+🤖 **AI/ML** • 🐍 **Python**  
+📊 **PowerBI** • 📈 **Tableau**  
+🗄️ **MySQL** • 📑 **Excel**
 
 <br>
 
-<!-- Floating Particles -->
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" align="left"/>
+
+### 📫 Reach Me
+
+**gouthumkharvi1899@gmail.com**
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60" align="left"/>
+
+### ⚡ Fun Fact
+
+**I can do this all day**
+
+</td>
+</tr>
+</table>
+
+<!-- Neon Cyber Line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800"/>
+</p>
+
+---
+
+<div align="center">
+
+## 🔗 CONNECT WITH ME
+
+<!-- Glowing Social Badges -->
+<a href="https://linkedin.com/in/gouthum-kharvi-2366a6219">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+</a>
+<a href="https://kaggle.com/goutham1698">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="32"/>
+</a>
+<a href="mailto:gouthumkharvi1899@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+</a>
+<a href="https://www.linkedin.com/in/gouthum-kharvi-2366a6219">
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="32"/>
+</a>
 
 </div>
 
-<!-- Final Quantum Wave -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<!-- Digital Wave -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="800"/>
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ TECH STACK
+
+<!-- 3D Tech Icons Medium Size -->
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
+
+**AI/ML FRAMEWORKS**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+
+**PROGRAMMING**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+
+**VISUALIZATION**
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"/>
+
+**DATABASES**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+
+**BIG DATA**
+
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+
+**DEV TOOLS**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<!-- Cyber Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
+</p>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB STATS
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200"/>
+
+<!-- Cyberpunk Theme Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gouthumkharvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=667EEA&text_color=FFFFFF&border_radius=10" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gouthumkharvi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=667EEA&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" />
+
+<!-- Language Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10" />
+
+<!-- Productivity Card -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gouthumkharvi&theme=tokyonight&utcOffset=5.30" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gouthumkharvi&custom_title=📈%20Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=667EEA&point=FFFFFF&area=true&area_color=667EEA&hide_border=true&border_radius=10" width="95%"/>
+
+<!-- Trophy Showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=gouthumkharvi&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=15&margin-h=15" width="90%"/>
+
+</div>
+
+<!-- Holographic Line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800"/>
+</p>
+
+---
+
+<div align="center">
+
+<!-- AI Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs&border=true&border_color=00D9FF" width="650"/>
+
+<br><br>
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br><br>
+
+<!-- Neon Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=LET'S%20BUILD%20THE%20FUTURE%20🚀&fontSize=28&fontAlignY=35&color=gradient&customColorList=6,11,20&animation=twinkling&desc=Powered%20by%20AI%20|%20Driven%20by%20Data%20|%20Built%20with%20Passion&descSize=14&descAlignY=55&section=footer&fontColor=ffffff&stroke=00D9FF&strokeWidth=2" width="100%"/>
+
+<!-- Visitor Counter -->
+<img src="https://visitcount.itsvg.in/api?id=gouthumkharvi&label=Profile+Views&color=6&icon=5&pretty=true" />
+
+<br><br>
+
+### 💙 Crafted with AI • Engineered with ML • Powered by Innovation
+
+<br>
+
+<!-- Floating Elements -->
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" />
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
+
+</div>
