@@ -259,7 +259,7 @@
   <img src="https://profile-counter.glitch.me/gouthumkharvi/count.svg?" alt="Visitor Count" />
 </p>
 
-</p>
+
 
 
 <p align="center">
