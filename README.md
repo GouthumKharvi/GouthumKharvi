@@ -255,8 +255,9 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/gouthumkharvi/count.svg" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@gouthumkharvi?theme=gelbooru" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/heart.gif?raw=true" width="80" />
