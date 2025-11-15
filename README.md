@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="[C:\Users\Gouthum\Downloads\roboo.png](https://chatgpt.com/s/m_6918ff5d497c8191bd5b26c0952ef750)" width="450">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" />
 </p>
 
 </div>
