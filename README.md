@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" />
+  <img src="https://octodex.github.com/images/minertocat.png" width="200" />
 </p>
 
 </div>
