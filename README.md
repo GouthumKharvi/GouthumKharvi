@@ -86,7 +86,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="100%" />
 </p>
 
-
+<br>
 
 <!-- ⭐ NEW ANIMATION GOES EXACTLY IN YOUR EMPTY BOX -->
 <p align="center">
