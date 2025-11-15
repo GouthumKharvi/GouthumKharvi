@@ -67,7 +67,7 @@
 </td>
 
 <!-- RIGHT SIDE -->
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top" style="padding: 20px; height: 900px; display: block;">
 
 <!-- DINO GAME -->
 <p align="center">
@@ -94,6 +94,7 @@
 </p>
 
 </td>
+
 </tr>
 </table>
 
