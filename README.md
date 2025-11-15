@@ -263,4 +263,4 @@
 </p>
 
 
-<h3 align="center">💙 Crafted with Passion • Engineered with Excellence • Powered by AI</h3>
+<h3 align="center">Developed by gouthum kharvi 🤖</h3>
