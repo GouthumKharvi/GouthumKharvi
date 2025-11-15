@@ -263,7 +263,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/heart.gif?raw=true" width="80" />
+  <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&style=for-the-badge&color=00ffff" />
 </p>
+
 
 <h3 align="center">💙 Crafted with Passion • Engineered with Excellence • Powered by AI</h3>
