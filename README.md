@@ -89,7 +89,7 @@
 <br>
 
 <!-- ⭐ NEW ANIMATION GOES EXACTLY IN YOUR EMPTY BOX -->
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/hologram-chart.gif" width="430" />
 </p>
 
