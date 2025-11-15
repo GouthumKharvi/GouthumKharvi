@@ -93,7 +93,7 @@
 
 <!-- ⭐ NEW ANIMATION GOES EXACTLY IN YOUR MARKED BOX -->
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" />
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="400" />
 </p>
 
 </div>
