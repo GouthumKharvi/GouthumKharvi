@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="C:\Users\Gouthum\Downloads\roboo.png" width="450">
+  <img src="C:\Users\Gouthum\Downloads\roboo.png" width="250">
 </p>
 
 </div>
