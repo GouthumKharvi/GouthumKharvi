@@ -97,7 +97,8 @@
 </p>
 
 <p align="center">
-  <img src="https://octodex.github.com/images/minertocat.png" width="200" />
+ <img src="https://octodex.github.com/images/surftocat.gif" width="500" />
+
 </p>
 
 </div>
