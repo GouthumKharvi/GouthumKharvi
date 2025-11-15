@@ -33,10 +33,7 @@
 <td width="50%" valign="top" style="padding: 20px;">
 <div>
 
-<!-- HELMET CAT -->
-<p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" />
-</p>
+
 
 ### 🎯 ABOUT ME
 
