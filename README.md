@@ -10,12 +10,12 @@
 
 <!-- DYNAMIC TYPING BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&height=100&lines=✨+Passionate+About+Uncovering+Data+Insights;🚀+Building+GenAI+%26+Agentic+AI+Projects;🧠+Currently+Learning+Agentic+AI+%26+GenAI;⚡+I+Can+Do+This+All+Day!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=%E2%9C%A8+Passionate+About+Uncovering+Data+Insights;%F0%9F%9A%80+Building+GenAI+and+Agentic+AI+Projects;%F0%9F%A7%A0+Currently+Learning+Agentic+AI+and+GenAI;%E2%9A%A1+I+Can+Do+This+All+Day!" />
 </p>
 
 <!-- VISITOR BADGE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&color=00ffff&style=for-the-badge&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <br>
@@ -47,12 +47,8 @@
 - Uncovering insights from data
 
 **💬 Ask Me About**
-- AI/ML
-- Python
-- PowerBI
-- Tableau
-- MySQL
-- Excel
+- AI/ML • Python • PowerBI
+- Tableau • MySQL • Excel
 
 **📫 Reach Me**
 - gouthumkharvi1899@gmail.com
@@ -229,7 +225,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gouthumkharvi&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  <img src="https://profile-counter.glitch.me/gouthumkharvi/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">
