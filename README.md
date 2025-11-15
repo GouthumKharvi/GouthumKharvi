@@ -25,62 +25,69 @@
 
 <br>
 
-<!-- MAIN CONTENT LAYOUT -->
-<table width="100%">
+<!-- MAIN CONTENT LAYOUT (PERFECTLY ALIGNED) -->
+<table width="100%" style="table-layout: fixed;">
 <tr>
-<td width="50%" valign="top" style="padding-right:20px; text-align:left;">
 
-<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="180" />
+<!-- LEFT SIDE -->
+<td width="50%" valign="top" style="padding: 20px;">
+
+<!-- HELMET CAT -->
+<p align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" />
+</p>
 
 ### 🎯 ABOUT ME
 
-**🔭 Currently Working On**
+**🔭 Currently Working On**  
 - GenAI & Agentic AI Projects  
 - Release Coming Soon  
 
-**🌱 Currently Learning**
+**🌱 Currently Learning**  
 - Agentic AI  
 - GenAI  
 - Advanced ML Architectures  
 
-**💡 Passion**
+**💡 Passion**  
 - Uncovering insights from data  
 
-**💬 Ask Me About**
+**💬 Ask Me About**  
 - AI/ML • Python • PowerBI  
 - Tableau • MySQL • Excel  
 
-**📫 Reach Me**
+**📫 Reach Me**  
 - gouthumkharvi1899@gmail.com  
 
-**📄 My Experience**
+**📄 My Experience**  
 - [LinkedIn Profile](https://www.linkedin.com/in/gouthum-kharvi-2366a6219)
 
-**⚡ Fun Fact**
+**⚡ Fun Fact**  
 - I can do this all day
 
 </td>
 
-
 <!-- RIGHT SIDE -->
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" style="padding: 20px;">
+
+<!-- DINO GAME -->
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="420" />
+</p>
 
 <br>
 
-<!-- Dinosaur GIF unchanged -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="400" />
+<!-- 🔥 FUTURISTIC LIVE ANIMATION FOR MOST USED LANGUAGES -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/pie-chart.gif" width="420" />
+</p>
 
-<br><br>
-
-<!-- 🔥 NEW FUTURISTIC ANIMATED CHART -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/data-graph.gif" width="100%" />
-
-<br>
-
-<!-- LANGUAGES (kept same stats theme) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="100%" />
+<!-- SAME THEME GITHUB LANGUAGE STATS BELOW -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="100%" />
+</p>
 
 </td>
+
 </tr>
 </table>
 
