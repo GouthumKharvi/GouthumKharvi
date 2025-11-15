@@ -254,8 +254,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,2,2,10&height=150&section=footer&text=Built%20with%20AI%20•%20Powered%20by%20Innovation&fontSize=22&fontColor=00FFFF&animation=twinkling&fontAlignY=70" />
 </p>
 
+
 <p align="center">
-  <img src="https://count.getloli.com/get/@gouthumkharvi?theme=gelbooru" />
+  <img src="https://profile-counter.glitch.me/gouthumkharvi/count.svg?" alt="Visitor Count" />
+</p>
+
 </p>
 
 
