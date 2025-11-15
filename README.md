@@ -28,30 +28,30 @@
 <!-- MAIN CONTENT LAYOUT -->
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-right:20px; text-align:left;">
 
-<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" />
+<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="180" />
 
 ### 🎯 ABOUT ME
 
 **🔭 Currently Working On**
-- GenAI & Agentic AI Projects
-- Release Coming Soon
+- GenAI & Agentic AI Projects  
+- Release Coming Soon  
 
 **🌱 Currently Learning**
-- Agentic AI
-- GenAI
-- Advanced ML Architectures
+- Agentic AI  
+- GenAI  
+- Advanced ML Architectures  
 
 **💡 Passion**
-- Uncovering insights from data
+- Uncovering insights from data  
 
 **💬 Ask Me About**
-- AI/ML • Python • PowerBI
-- Tableau • MySQL • Excel
+- AI/ML • Python • PowerBI  
+- Tableau • MySQL • Excel  
 
 **📫 Reach Me**
-- gouthumkharvi1899@gmail.com
+- gouthumkharvi1899@gmail.com  
 
 **📄 My Experience**
 - [LinkedIn Profile](https://www.linkedin.com/in/gouthum-kharvi-2366a6219)
@@ -60,21 +60,30 @@
 - I can do this all day
 
 </td>
-<td width="50%" valign="top">
+
+
+<!-- RIGHT SIDE -->
+<td width="50%" valign="top" align="center">
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="400" />
-</p>
+<!-- Dinosaur GIF unchanged -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="400" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="100%" />
-</p>
+<br><br>
+
+<!-- 🔥 NEW FUTURISTIC ANIMATED CHART -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/data-graph.gif" width="100%" />
+
+<br>
+
+<!-- LANGUAGES (kept same stats theme) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="100%" />
 
 </td>
 </tr>
 </table>
+
 
 <br>
 
