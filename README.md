@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="A_2D_digital_illustration_features_a_futuristic_ro.png" width="450">
+  <img src="C:\Users\Gouthum\Downloads\roboo.png" width="450">
 </p>
 
 </div>
