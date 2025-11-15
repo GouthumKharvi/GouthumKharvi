@@ -1,6 +1,6 @@
 <!-- FUTURISTIC HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GOUTHUM%20KHARVI&fontSize=80&color=gradient&customColorList=0,0,2,2,10&fontColor=00FFFF&animation=blinking&stroke=00FFFF&strokeWidth=3&fontAlignY=42&desc=AI%20ENGINEER%20•%20MACHINE%20LEARNING%20•%20DATA%20SCIENTIST&descAlignY=62&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GOUTHUM%20KHARVI&fontSize=80&color=gradient&customColorList=0,0,2,2,10&fontColor=00FFFF&animation=blinking&stroke=00FFFF&strokeWidth=3&fontAlignY=42&desc=AI%20ENGINEER%20•%20MACHINE%20LEARNING%20•%20DATA%20SCIENTIST&descAlignY=62&descSize=20" /> 
 </p>
 
 <!-- NEURAL NETWORK ANIMATION --> 
