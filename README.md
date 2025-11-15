@@ -256,8 +256,9 @@
 
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/gouthumkharvi/count.svg?" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@gouthumkharvi?theme=rule34" />
 </p>
+
 
 
 
