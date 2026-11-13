@@ -1,130 +1,252 @@
-<!-- iOS GLASS HERO HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E293B,70:0284C7,100:38BDF8&height=260&section=header&text=GOUTHUM%20KHARVI&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20RAG%20%E2%80%A2%20Data%20Scientist&descAlignY=58&descSize=19&animation=twinkling" width="100%" />
+<!-- FUTURISTIC HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GOUTHUM%20KHARVI&fontSize=80&color=gradient&customColorList=0,0,2,2,10&fontColor=00FFFF&animation=blinking&stroke=00FFFF&strokeWidth=3&fontAlignY=42&desc=AI%20ENGINEER%20•%20MACHINE%20LEARNING%20•%20DATA%20SCIENTIST&descAlignY=62&descSize=20" /> 
+</p>
+
+<!-- NEURAL NETWORK ANIMATION --> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/ai.gif" width="450" />
+</p>
+
+<!-- DYNAMIC TYPING BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=%E2%9C%A8+Passionate+About+Uncovering+Data+Insights;%F0%9F%9A%80+Building+GenAI+and+Agentic+AI+Projects;%F0%9F%A7%A0+Currently+Learning+Agentic+AI+and+GenAI;%E2%9A%A1+I+Can+Do+This+All+Day!" />
+</p>
+
+<!-- VISITOR BADGE -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<br>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+<br>
+
+<!-- MAIN CONTENT LAYOUT (PERFECTLY FIXED + WORKING) -->
+<table width="100%" style="table-layout: fixed;">
+<tr>
+
+<!-- LEFT SIDE -->
+<td width="50%" valign="top" style="padding: 20px;">
+<div>
+
+
+
+### 🎯 ABOUT ME
+
+**🔭 Currently Working On**  
+- GenAI & Agentic AI Projects  
+- Release Coming Soon  
+
+**🌱 Currently Learning**  
+- Agentic AI  
+- GenAI  
+- Advanced ML Architectures  
+
+**💡 Passion**  
+- Uncovering insights from data  
+
+**💬 Ask Me About**  
+- AI/ML • Python • PowerBI  
+- Tableau • MySQL • Excel  
+
+**📫 Reach Me**  
+- gouthumkharvi1899@gmail.com  
+
+**📄 My Experience**  
+- [LinkedIn Profile](https://www.linkedin.com/in/gouthum-kharvi-2366a6219)
+
+**⚡ Fun Fact**  
+- I can do this all day
+
 </div>
+</td>
 
-<!-- FLOATING iOS DYNAMIC ISLAND TYPING PILL -->
+<!-- RIGHT SIDE -->
+<td width="50%" valign="top" style="padding: 20px;">
+<div>
+
+<!-- DINO GAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display,JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=38BDF8&background=161B22&center=true&vCenter=true&width=780&height=52&lines=%E2%9C%A8+Architecting+Agentic+AI+%26+RAG+Systems;%F0%9F%9A%80+Deploying+FastAPI%2C+LangGraph+%26+AWS+Pipelines;%F0%9F%A7%A0+Deep+Learning+%26+Data+Science+Explorer;%E2%9A%A1+I+Can+Do+This+All+Day!" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="420" />
 </p>
 
-<!-- iOS GLASS ACTION DOCK -->
+<br>
+
+<!-- 🔥 MOST USED LANGUAGES BAR (your original card) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gouthum-kharvi-2366a6219">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/goutham1698">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:gouthumkharvi1899@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/gouthumkharvi?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-38BDF8?style=for-the-badge&logo=github&logoColor=0D1117" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&color=161B22&style=for-the-badge&label=VIEWS" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/pie-chart.gif" width="420" />
 </p>
 
-<br/>
+<!-- LANGUAGE STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="100%" />
+</p>
 
-<!-- iOS BENTO GRID 1: AI CORE + INTERACTIVE PROFILE -->
-<table width="100%">
-  <tr>
-    <td width="54%" valign="top">
-      <h3>🧊 System Overview</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/ai.gif" width="100%" />
-      </p>
-      <ul>
-        <li>🔭 <b>Active Build:</b> Enterprise Agentic RAG & Multi-Agent Workflows</li>
-        <li>🧠 <b>Core Stack:</b> LangGraph, LangChain, PyTorch, FastAPI & AWS</li>
-        <li>📊 <b>Data & BI:</b> Python, SQL, Power BI, Tableau & Predictive ML</li>
-        <li>📍 <b>Base:</b> Bengaluru, India 🇮🇳</li>
-        <li>⚡ <b>Motto:</b> <i>"I can do this all day."</i></li>
-      </ul>
-    </td>
-    <td width="46%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=gouthumkharvi&theme=tokyonight&hide_border=false&background=161B22&border=30363D&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=16" width="100%" />
-      <br/><br/>
-      <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="210" />
-      <br/>
-      <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="100%" />
-    </td>
-  </tr>
+<br>
+
+<!-- ⭐ NEW ANIMATION GOES EXACTLY IN YOUR MARKED BOX -->
+<p align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="400" />
+
+</p>
+
+</div>
+</td>
+
+</tr>
 </table>
 
-<br/>
 
-<!-- iOS BENTO GRID 2: ANIMATED TECH WIDGETS -->
-<h3 align="center">🎛️ Interactive Tech Control Center</h3>
+
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+<br>
+
+<!-- CONNECT SECTION -->
+<h2 align="center">🔗 CONNECT WITH ME</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gouthum-kharvi-2366a6219">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/goutham1698">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:gouthumkharvi1899@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gouthum-kharvi-2366a6219">
+    <img src="https://img.shields.io/badge/Portfolio-%2300FFFF.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+<br>
+
+<!-- TECH STACK -->
+<h2 align="center">⚡ TECH STACK</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,aws,docker,kubernetes,postgres,mysql,mongodb,redis,git,github,linux,vscode&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,sqlite,git,github,docker,kubernetes,linux,vscode,jupyter&perline=8&theme=dark" />
   </a>
 </p>
 
+<br>
+
+<!-- ANIMATED TECH GRID -->
 <table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/ai-brain.gif?raw=true" width="75" />
-      <h4>🤖 GenAI & ML</h4>
-      <p>
-        <img src="https://img.shields.io/badge/LangGraph-161B22?style=for-the-badge&logo=langchain&logoColor=38BDF8" /><br/>
-        <img src="https://img.shields.io/badge/PyTorch-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" /><br/>
-        <img src="https://img.shields.io/badge/TensorFlow-161B22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" /><br/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/data-chart.gif?raw=true" width="75" />
-      <h4>📊 Data & Analytics</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=38BDF8" /><br/>
-        <img src="https://img.shields.io/badge/Power_BI-161B22?style=for-the-badge&logo=powerbi&logoColor=F2C811" /><br/>
-        <img src="https://img.shields.io/badge/Tableau-161B22?style=for-the-badge&logo=tableau&logoColor=E97627" /><br/>
-        <img src="https://img.shields.io/badge/Pandas_%26_NumPy-161B22?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/server.gif?raw=true" width="75" />
-      <h4>☁️ Cloud & Data Eng</h4>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688" /><br/>
-        <img src="https://img.shields.io/badge/AWS_Bedrock-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /><br/>
-        <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=38BDF8" /><br/>
-        <img src="https://img.shields.io/badge/Kafka_%26_Hadoop-161B22?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+
+### 🤖 AI & MACHINE LEARNING
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/ai-brain.gif?raw=true" width="100" />
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🐍 PROGRAMMING & DATA
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/python-code.gif?raw=true" width="100" />
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 📊 DATA VISUALIZATION
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/data-chart.gif?raw=true" width="100" />
+
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+<td width="50%" align="center">
+
+### 💾 DATABASES
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/database.gif?raw=true" width="100" />
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⚙️ BIG DATA
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/server.gif?raw=true" width="100" />
+
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+### 🛠️ DEVELOPMENT TOOLS
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/code.gif?raw=true" width="100" />
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
 </table>
 
-<br/>
+<br>
 
-<!-- iOS BENTO GRID 3: LIVE TELEMETRY WIDGETS -->
-<h3 align="center">📡 Live Telemetry & Analytics</h3>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+<br>
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gouthumkharvi&show_icons=true&theme=tokyonight&hide_border=false&bg_color=161B22&border_color=30363D&title_color=38BDF8&icon_color=38BDF8&text_color=F8FAFC&ring_color=38BDF8&border_radius=16" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=false&bg_color=161B22&border_color=30363D&title_color=38BDF8&text_color=F8FAFC&langs_count=8&border_radius=16" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="300" />
 </p>
 
 <p align="center">
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=gouthumkharvi&theme=tokyo-night&hide_border=false&bg_color=161B22&border_color=30363D&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=0284C7&custom_title=Real-Time%20Contribution%20Pulse&radius=16" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gouthumkharvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&ring_color=00FFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gouthumkharvi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideLabels=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gouthumkharvi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" width="98%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=gouthumkharvi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&custom_title=Contribution%20Activity" />
 </p>
 
-<br/>
-
-<!-- LIVE CONTRIBUTION SNAKE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gouthumkharvi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="90%" />
 </p>
 
-<!-- iOS GLASS FOOTER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:0284C7,75:1E293B,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" />
-</div>
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+<br>
+
+<!-- CONTRIBUTION SNAKE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<br>
+
+<!-- ANIMATED FOOTER -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@gouthumkharvi?theme=rule34" />
+</p>
