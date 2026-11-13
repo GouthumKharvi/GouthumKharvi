@@ -1,266 +1,162 @@
-<!-- FUTURISTIC HERO BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GOUTHUM%20KHARVI&fontSize=80&color=gradient&customColorList=0,0,2,2,10&fontColor=00FFFF&animation=blinking&stroke=00FFFF&strokeWidth=3&fontAlignY=42&desc=AI%20ENGINEER%20•%20MACHINE%20LEARNING%20•%20DATA%20SCIENTIST&descAlignY=62&descSize=20" /> 
-</p>
+<!-- ═════════════ HERO ═════════════ -->
+<div align="center">
 
-<!-- NEURAL NETWORK ANIMATION --> 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/ai.gif" width="450" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:0891B2,100:7C3AED&text=Gouthum%20Kharvi&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20Agentic%20Systems&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Gouthum Kharvi banner" />
 
-<!-- DYNAMIC TYPING BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=%E2%9C%A8+Passionate+About+Uncovering+Data+Insights;%F0%9F%9A%80+Building+GenAI+and+Agentic+AI+Projects;%F0%9F%A7%A0+Currently+Learning+Agentic+AI+and+GenAI;%E2%9A%A1+I+Can+Do+This+All+Day!" />
-</p>
+<a href="https://github.com/gouthumkharvi">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=50&lines=Building+agentic+AI+that+actually+ships;RAG+%E2%80%A2+LangGraph+%E2%80%A2+Computer+Vision+%E2%80%A2+MLOps;Turning+messy+data+into+decisions;Currently+shipping+GenAI+projects" alt="Typing animation" />
+</a>
 
-<!-- VISITOR BADGE -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+<br/>
 
-<br>
+<a href="https://gouthumkharvi.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/gouthum-kharvi-2366a6219"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://kaggle.com/goutham1698"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="mailto:gouthumkharvi1899@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<br/><br/>
 
-<br>
+<img src="https://img.shields.io/badge/status-open%20to%20work-22C55E?style=flat-square&labelColor=0D1117" alt="Open to work" />
+<img src="https://img.shields.io/badge/focus-GenAI%20%26%20Agents-22D3EE?style=flat-square&labelColor=0D1117" alt="Focus" />
+<img src="https://img.shields.io/badge/based%20in-Karnataka%2C%20India-7C3AED?style=flat-square&labelColor=0D1117" alt="Location" />
+<img src="https://komarev.com/ghpvc/?username=gouthumkharvi&style=flat-square&color=0891B2&label=profile+views&labelColor=0D1117" alt="Profile views" />
 
-<!-- MAIN CONTENT LAYOUT (PERFECTLY FIXED + WORKING) -->
-<table width="100%" style="table-layout: fixed;">
+</div>
+
+<br/>
+
+---
+
+## `> whoami`
+
+```python
+class GouthumKharvi:
+    role        = "AI/ML Engineer"
+    location    = "Karnataka, India"
+    background  = ["Technical Support", "BCA (2019)", "Data Science", "AI/ML"]
+    building    = ["RAG systems", "LangGraph agents", "CV apps", "MLOps pipelines"]
+    learning    = ["Agentic AI", "Advanced ML architectures", "GenAI at scale"]
+    certified   = ["Data Science (UpGrad)", "AI (NVIDIA)", "Agentic AI (Udemy)"]
+    philosophy  = "Ship it, measure it, improve it."
+
+    def contact(self):
+        return "gouthumkharvi1899@gmail.com"
+```
+
+---
+
+## `> featured_projects`
+
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<!-- LEFT SIDE -->
-<td width="50%" valign="top" style="padding: 20px;">
-<div>
+### 🤖 Autonomous AI Document Agent
+FastAPI + LangGraph + Gemini backend with a mission-control style Streamlit frontend.
 
+`FastAPI` `LangGraph` `Gemini` `Streamlit`
 
-
-### 🎯 ABOUT ME
-
-**🔭 Currently Working On**  
-- GenAI & Agentic AI Projects  
-- Release Coming Soon  
-
-**🌱 Currently Learning**  
-- Agentic AI  
-- GenAI  
-- Advanced ML Architectures  
-
-**💡 Passion**  
-- Uncovering insights from data  
-
-**💬 Ask Me About**  
-- AI/ML • Python • PowerBI  
-- Tableau • MySQL • Excel  
-
-**📫 Reach Me**  
-- gouthumkharvi1899@gmail.com  
-
-**📄 My Experience**  
-- [LinkedIn Profile](https://www.linkedin.com/in/gouthum-kharvi-2366a6219)
-
-**⚡ Fun Fact**  
-- I can do this all day
-
-</div>
 </td>
+<td width="50%" valign="top">
 
-<!-- RIGHT SIDE -->
-<td width="50%" valign="top" style="padding: 20px;">
-<div>
+### 🩺 Medical Chatbot GenAI
+RAG system for medical Q&A, deployed on AWS.
 
-<!-- DINO GAME -->
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="420" />
-</p>
+`LangChain` `Pinecone` `Groq` `AWS`
 
-<br>
-
-<!-- 🔥 MOST USED LANGUAGES BAR (your original card) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/pie-chart.gif" width="420" />
-</p>
-
-<!-- LANGUAGE STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="100%" />
-</p>
-
-<br>
-
-<!-- ⭐ NEW ANIMATION GOES EXACTLY IN YOUR MARKED BOX -->
-<p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="400" />
-
-</p>
-
-</div>
 </td>
-
 </tr>
-</table>
-
-
-
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-<br>
-
-<!-- CONNECT SECTION -->
-<h2 align="center">🔗 CONNECT WITH ME</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/gouthum-kharvi-2366a6219">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/goutham1698">
-    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:gouthumkharvi1899@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gouthum-kharvi-2366a6219">
-    <img src="https://img.shields.io/badge/Portfolio-%2300FFFF.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-<br>
-
-<!-- TECH STACK -->
-<h2 align="center">⚡ TECH STACK</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,sqlite,git,github,docker,kubernetes,linux,vscode,jupyter&perline=8&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<!-- ANIMATED TECH GRID -->
-<table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🤖 AI & MACHINE LEARNING
+### ♻️ EcoSort-Vision
+Real-time waste classification with YOLO11, containerised and deployed.
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/ai-brain.gif?raw=true" width="100" />
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🐍 PROGRAMMING & DATA
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/python-code.gif?raw=true" width="100" />
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 📊 DATA VISUALIZATION
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/data-chart.gif?raw=true" width="100" />
-
-![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+`YOLO11` `Flask` `Docker` `AWS`
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 💾 DATABASES
+### 💼 Career Navigator AI
+Multi-agent job-search platform that researches, matches and guides.
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/database.gif?raw=true" width="100" />
+`LangChain` `LCEL` `Streamlit`
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ⚙️ BIG DATA
+### 🧠 GraphMind
+Agentic chatbot with graph-based reasoning flows.
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/server.gif?raw=true" width="100" />
+`LangGraph` `OpenRouter` `Streamlit`
 
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+</td>
+<td width="50%" valign="top">
 
-### 🛠️ DEVELOPMENT TOOLS
+### 🍳 AI Recipe Assistant
+Multi-agent recipe and e-commerce assistant.
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/images/code.gif?raw=true" width="100" />
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+`Multi-agent` `Streamlit`
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+## `> tech_stack`
 
-<br>
+<div align="center">
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GITHUB STATISTICS</h2>
+| Layer | Tools |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **GenAI & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0891B2?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **Computer Vision** | ![YOLO](https://img.shields.io/badge/YOLO11-00FFFF?style=flat-square&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Data & Viz** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+| **Backend & Apps** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **MLOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="300" />
-</p>
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gouthumkharvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&ring_color=00FFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gouthumkharvi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideLabels=FFFFFF" />
-</p>
+---
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=gouthumkharvi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&custom_title=Contribution%20Activity" />
-</p>
+## `> now`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gouthumkharvi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="90%" />
-</p>
+| | |
+|:--|:--|
+| 🔭 **Building** | GenAI and agentic AI projects, new release coming soon |
+| 🌱 **Learning** | Agentic AI, GenAI, advanced ML architectures |
+| 💡 **Passion** | Uncovering insights from data |
+| 💬 **Ask me about** | AI/ML, Python, RAG, LangGraph, Power BI, Tableau, MySQL |
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+## `> github_stats`
 
-<br>
+<div align="center">
 
-<!-- CONTRIBUTION SNAKE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gouthumkharvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB&ring_color=22D3EE" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthumkharvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&langs_count=8" alt="Top languages" />
 
-<br>
+<img src="https://streak-stats.demolab.com?user=gouthumkharvi&theme=tokyonight&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" alt="Streak" />
 
-<!-- ANIMATED FOOTER -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gouthumkharvi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=7C3AED&point=FFFFFF&area=true&area_color=22D3EE" alt="Activity graph" width="95%" />
 
+</div>
 
+---
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@gouthumkharvi?theme=rule34" />
-</p>
+<div align="center">
 
+### Let's build something intelligent.
 
+<a href="mailto:gouthumkharvi1899@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-gouthumkharvi1899%40gmail.com-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Email me" /></a>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,50:0891B2,100:0D1117&section=footer" width="100%" alt="footer" />
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gouthumkharvi&style=for-the-badge&color=00ffff" />
-</p>
-
-
-<h3 align="center">Developed by gouthum kharvi 🤖</h3>
+</div>
